@@ -210,8 +210,7 @@ public class FacultyEntryForm extends javax.swing.JFrame {
         setTitle(bundle.getString("APP_NAME")); // NOI18N
         setIconImage(icon.getImage());
         setMaximumSize(new java.awt.Dimension(1200, 800));
-        setMinimumSize(new java.awt.Dimension(1200, 800));
-        setResizable(false);
+        setMinimumSize(new java.awt.Dimension(1000, 600));
 
         TitlePanel.setBackground(new java.awt.Color(51, 51, 51));
 

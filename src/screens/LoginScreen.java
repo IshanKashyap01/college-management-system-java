@@ -216,7 +216,6 @@ public class LoginScreen extends javax.swing.JFrame {
         LoginButton.setText(bundle.getString("NEXT")); // NOI18N
         LoginButton.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         LoginButton.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        LoginButton.setOpaque(false);
         LoginButton.setPreferredSize(new java.awt.Dimension(180, 40));
         LoginButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
